@@ -1,0 +1,1 @@
+we've experienced errors when running the program, mainly being missing files(cannot find student_ms-res.o - common error)from the debug kit folder. Just in case the errors keep popping up, please use the content in the provided debug file above to fix the errors.

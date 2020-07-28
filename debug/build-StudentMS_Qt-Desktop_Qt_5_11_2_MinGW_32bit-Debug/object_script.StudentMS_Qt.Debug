@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\StudentMS.o
+./debug\StuDialog.o
+./debug\StuSubWindow.o
+./debug\StuInfoTemplate.o
+./debug\StyleSelector.o
+./debug\SortDialog.o
+./debug\LoginDialog.o
+./debug\qrc_resource.o
+./debug\moc_StudentMS.o
+./debug\moc_StuDialog.o
+./debug\moc_StuSubWindow.o
+./debug\moc_SortDialog.o
+./debug\moc_LoginDialog.o
+);
